@@ -3,6 +3,7 @@
 
 :root {
   font-family: 'DM Sans', sans-serif;
+  font-size: 16px;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -187,7 +188,7 @@ button {
 .hero-description {
   max-width: 520px;
   margin-top: 27px;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.8;
   color: var(--muted);
 }
@@ -296,7 +297,7 @@ button {
   }
 
   .hero-description {
-    font-size: 15px;
+    font-size: 16px;
   }
 
   .hero-topline {
@@ -351,7 +352,7 @@ button {
 .aside-label,
 .timeline-date {
   font-family: 'DM Mono', monospace;
-  font-size: 10px;
+  font-size: 13px;
   letter-spacing: 1px;
   color: var(--accent);
 }
@@ -373,14 +374,14 @@ button {
 
 .about-copy p {
   color: var(--muted);
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.9;
   margin-top: 20px;
 }
 
 .about-copy .about-lead {
   color: var(--text);
-  font-size: 23px;
+  font-size: 24px;
   line-height: 1.5;
   margin-top: 0;
   max-width: 570px;
@@ -390,7 +391,7 @@ button {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  font-size: 13px;
+  font-size: 14px;
   color: var(--muted);
 }
 
@@ -441,12 +442,12 @@ button {
   max-width: 680px;
   margin-top: 13px;
   color: var(--muted);
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.8;
 }
 
 .project-main .project-details {
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .project-links {
@@ -492,7 +493,7 @@ button {
 }
 
 .skill-group h3 {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 600;
 }
 
@@ -518,12 +519,12 @@ button {
 .timeline-role {
   display: block;
   margin-top: 8px;
-  font-size: 14px;
+  font-size: 15px;
   color: var(--muted);
 }
 
 .timeline-role {
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .timeline-content ul {
@@ -535,7 +536,7 @@ button {
   margin-bottom: 13px;
   padding-left: 5px;
   color: var(--muted);
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.8;
 }
 
@@ -553,7 +554,7 @@ button {
 .education-meta {
   margin-top: 10px;
   color: var(--muted);
-  font-size: 13px;
+  font-size: 17px;
 }
 
 .education-meta {
@@ -572,7 +573,7 @@ button {
 
 .contact-content p {
   color: var(--muted);
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.8;
   margin-bottom: 25px;
 }
@@ -640,4 +641,3 @@ button {
     margin-top: 65px;
   }
 }
-

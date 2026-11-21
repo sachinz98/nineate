@@ -300,11 +300,11 @@ export function Education() {
             <div className="education-row">
                 <div>
                     <h3>National Institute of Technology, Raipur</h3>
-                    <p>B.Tech — Biotechnology</p>
+                    <p> Bachelor of Technology (B.Tech.) </p>
                 </div>
                 <div className="education-meta">
                     <span>2022 — 2026</span>
-                    <span>CPI: 7.39 / 10</span>
+                    <span></span>
                 </div>
             </div>
         </section>
